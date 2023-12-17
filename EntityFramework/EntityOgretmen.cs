@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EntityFramework
 {
-    internal class EntityOgretmen
+    public class EntityOgretmen
     {
         private int ogrtId;
         private string ogrtAd;

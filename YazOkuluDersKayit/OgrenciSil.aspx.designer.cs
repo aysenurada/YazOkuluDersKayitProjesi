@@ -11,7 +11,7 @@ namespace YazOkuluDersKayit
 {
 
 
-    public partial class WebFrom
+    public partial class OgrenciSil
     {
     }
 }

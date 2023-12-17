@@ -57,3 +57,11 @@ C:\Users\aysen\Desktop\YazOkuluDersKayitProjesi\YazOkuluDersKayit\obj\Debug\YazO
 C:\Users\aysen\Desktop\YazOkuluDersKayitProjesi\YazOkuluDersKayit\obj\Debug\YazOkuluDersKayit.csproj.CopyComplete
 C:\Users\aysen\Desktop\YazOkuluDersKayitProjesi\YazOkuluDersKayit\obj\Debug\YazOkuluDersKayit.dll
 C:\Users\aysen\Desktop\YazOkuluDersKayitProjesi\YazOkuluDersKayit\obj\Debug\YazOkuluDersKayit.pdb
+C:\Users\aysen\Desktop\YazOkuluDersKayitProjesi\YazOkuluDersKayit\bin\BusinessLogicLayer.dll
+C:\Users\aysen\Desktop\YazOkuluDersKayitProjesi\YazOkuluDersKayit\bin\DataAccessLayer.dll
+C:\Users\aysen\Desktop\YazOkuluDersKayitProjesi\YazOkuluDersKayit\bin\EntityFramework.dll
+C:\Users\aysen\Desktop\YazOkuluDersKayitProjesi\YazOkuluDersKayit\bin\System.Data.SqlClient.dll
+C:\Users\aysen\Desktop\YazOkuluDersKayitProjesi\YazOkuluDersKayit\bin\BusinessLogicLayer.pdb
+C:\Users\aysen\Desktop\YazOkuluDersKayitProjesi\YazOkuluDersKayit\bin\DataAccessLayer.pdb
+C:\Users\aysen\Desktop\YazOkuluDersKayitProjesi\YazOkuluDersKayit\bin\EntityFramework.pdb
+C:\Users\aysen\Desktop\YazOkuluDersKayitProjesi\YazOkuluDersKayit\bin\System.Data.SqlClient.xml

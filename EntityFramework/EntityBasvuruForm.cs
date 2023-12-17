@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EntityFramework
 {
-    internal class EntityBasvuruForm
+    public class EntityBasvuruForm
     {
         private int basId;
         private int basOgrId;

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EntityFramework
 {
-    internal class EntityDers
+    public class EntityDers
     {
         private int dersId;
         private string dersAd;
