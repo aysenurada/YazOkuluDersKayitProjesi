@@ -1,1 +1,1 @@
-# YazOkuluDersKayitProjesi
+# Yaz Okulu Ders Kayıt Projesi
