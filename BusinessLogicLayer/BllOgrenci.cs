@@ -48,7 +48,6 @@ namespace BusinessLogicLayer
             {
                 return DalOgrenci.OgrenciGuncelle(p);
             }
-
             return false;
         }
     }

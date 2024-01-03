@@ -7,3 +7,12 @@ C:\Users\aysen\Desktop\YazOkuluDersKayitProjesi\DataAccessLayer\obj\Debug\DataAc
 C:\Users\aysen\Desktop\YazOkuluDersKayitProjesi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
 C:\Users\aysen\Desktop\YazOkuluDersKayitProjesi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\Users\aysen\Desktop\YazOkuluDersKayitProjesi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\aysen\Desktop\C#-Projeler\YazOkuluDersKayitProjesi\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\aysen\Desktop\C#-Projeler\YazOkuluDersKayitProjesi\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\aysen\Desktop\C#-Projeler\YazOkuluDersKayitProjesi\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\aysen\Desktop\C#-Projeler\YazOkuluDersKayitProjesi\DataAccessLayer\bin\Debug\EntityFramework.pdb
+C:\Users\aysen\Desktop\C#-Projeler\YazOkuluDersKayitProjesi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\aysen\Desktop\C#-Projeler\YazOkuluDersKayitProjesi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\aysen\Desktop\C#-Projeler\YazOkuluDersKayitProjesi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\aysen\Desktop\C#-Projeler\YazOkuluDersKayitProjesi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\aysen\Desktop\C#-Projeler\YazOkuluDersKayitProjesi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

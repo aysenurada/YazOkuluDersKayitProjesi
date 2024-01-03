@@ -20,13 +20,11 @@ namespace YazOkuluDersKayit
         protected void Button1_Click(object sender, EventArgs e)
         {
             EntityOgrenci ent = new EntityOgrenci();
-
             ent.OgrAd = TxtAd.Text;
             ent.OgrSoyad = TxtSoyad.Text;
             ent.OgrNum = TxtNum.Text;
             ent.OgrFoto = TxtFoto.Text;
             ent.OgrSifre = TxtSifre.Text;
-
             BllOgrenci.OgrenciEkleBll(ent);
         }
     }

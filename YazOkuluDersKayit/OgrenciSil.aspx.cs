@@ -16,9 +16,7 @@ namespace YazOkuluDersKayit
         {
             int x = Convert.ToInt32(Request.QueryString["OgrID"]);
             Response.Write(x);
-
             BllOgrenci.OgrenciSilBll(x);
-
             Response.Redirect("OgrenciListesi.aspx");
         }
     }

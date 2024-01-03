@@ -9,3 +9,14 @@ C:\Users\aysen\Desktop\YazOkuluDersKayitProjesi\BusinessLogicLayer\obj\Debug\Bus
 C:\Users\aysen\Desktop\YazOkuluDersKayitProjesi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
 C:\Users\aysen\Desktop\YazOkuluDersKayitProjesi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
 C:\Users\aysen\Desktop\YazOkuluDersKayitProjesi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\aysen\Desktop\C#-Projeler\YazOkuluDersKayitProjesi\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\aysen\Desktop\C#-Projeler\YazOkuluDersKayitProjesi\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\aysen\Desktop\C#-Projeler\YazOkuluDersKayitProjesi\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\aysen\Desktop\C#-Projeler\YazOkuluDersKayitProjesi\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\aysen\Desktop\C#-Projeler\YazOkuluDersKayitProjesi\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\aysen\Desktop\C#-Projeler\YazOkuluDersKayitProjesi\BusinessLogicLayer\bin\Debug\EntityFramework.pdb
+C:\Users\aysen\Desktop\C#-Projeler\YazOkuluDersKayitProjesi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\aysen\Desktop\C#-Projeler\YazOkuluDersKayitProjesi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\aysen\Desktop\C#-Projeler\YazOkuluDersKayitProjesi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\aysen\Desktop\C#-Projeler\YazOkuluDersKayitProjesi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\aysen\Desktop\C#-Projeler\YazOkuluDersKayitProjesi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

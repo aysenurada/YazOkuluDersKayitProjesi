@@ -14,10 +14,8 @@ namespace YazOkuluDersKayit
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            if (Page.IsPostBack == false)
-            {
+            if (Page.IsPostBack == false) {
                 List<EntityDers> entityDers = BllDers.BllListele();
-
                 DropDownList1.DataSource = BllDers.BllListele();
                 DropDownList1.DataTextField = "DersAd";
                 DropDownList1.DataValueField = "DersId";
@@ -30,7 +28,6 @@ namespace YazOkuluDersKayit
             EntityBasvuruForm ent = new EntityBasvuruForm();
             ent.BasOgrId = int.Parse(TextBox1.Text);
             ent.BasDersId = int.Parse(DropDownList1.SelectedValue.ToString());
-
             BllDers.TalepEkleBll(ent);
         }
     }
